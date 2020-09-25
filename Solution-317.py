@@ -1,5 +1,4 @@
 rows = 10
-star = '* '
 print('(a)')
 for i in range(rows):
     for j in range(0, i + 1):
